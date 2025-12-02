@@ -1,0 +1,42 @@
+# Ignore the x64 folder
+x64/
+
+# Ignore Visual Studio files
+*.obj
+*.exe
+*.pdb
+*.idb
+*.class
+*.vscode/
+*.log
+*.user
+*.tlog
+*.lastbuildstate
+*.suo
+*.cache
+*.ilk
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.ipch
+*.iobj
+*.ipdb
+*.pch
+
+# Ignore Visual Studio-specific folders
+.vs/
+_Debug/
+_Release/
+Releases/
+
+# Ignore Visual Studio project and solution files
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.csproj
+*.csproj.user
+*.sln
+
+*.bak
+**/input.txt
